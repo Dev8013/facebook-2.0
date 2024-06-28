@@ -1,3 +1,8 @@
+
+![Uploading facebook2.0-1.png…]()
+![facebook2 0-2](https://github.com/Dev8013/facebook-2.0/assets/157282384/3a573eda-80f2-46cb-8fda-290ded60eea1)
+![facebook2 0-3](https://github.com/Dev8013/facebook-2.0/assets/157282384/71c5678f-0c3f-4a1e-8d3e-8681a837d8ad)
+
 **Title:** Facebook 2.0 Clone (Frontend) with Tailwind CSS, Clerk Authentication, React, Next.js 14, and TypeScript
 
 **Description:**
